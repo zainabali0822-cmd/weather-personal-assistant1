@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "title": "Morning Standup",
+      "start": "2026-06-18T09:00",
+      "end": "2026-06-18T09:30",
+      "location": "Office"
+    },
+    {
+      "title": "Client Lunch",
+      "start": "2026-06-18T13:00",
+      "end": "2026-06-18T14:00",
+      "location": "Cafe Downtown"
+    },
+    {
+      "title": "Evening Walk",
+      "start": "2026-06-18T18:00",
+      "end": "2026-06-18T19:00",
+      "location": "Clifton Beach"
+    }
+  ]
+}
